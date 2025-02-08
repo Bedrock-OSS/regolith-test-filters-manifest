@@ -1,0 +1,8 @@
+{
+	"filters": [
+		{
+			"runWith": "exe",
+			"exe": "main"
+		}
+	]
+}
