@@ -1,6 +1,6 @@
 from pathlib import Path
 
-VERSION = "1.0.0"
+VERSION = "1.0.1"
 
 def main():
     with Path("data/hello-nested-path-filter/message.txt").open(

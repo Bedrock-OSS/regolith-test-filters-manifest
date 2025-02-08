@@ -8,7 +8,7 @@ import (
 
 func main() {
 	filePath := filepath.Join("BP", "hello_release_exe_filter.txt")
-	content := "Hello from hello-release-exe-filter!"
+	content := "Hello from hello-release-exe-filter version 1.0.1!"
 
 	// Create and write to the file
 	file, err := os.Create(filePath)
