@@ -1,0 +1,1 @@
+The filters defined in this directory are used for testing the [release filter feature](https://github.com/Bedrock-OSS/regolith/pull/321).
