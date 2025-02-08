@@ -12,6 +12,28 @@
 				}
 			}
 		},
+		"hello-release-exe-filter": {
+			"versions": {
+				"1.0.0": {
+					"urls": [
+						{
+							"when": {
+								"os": "windows",
+								"arch": "amd64"
+							},
+							"url": "https://github.com/Bedrock-OSS/regolith-test-filters-manifest/releases/download/hello-release-exe-filter-1.0.0/hello-release-exe-filter-1.0.0-windows.zip"
+						},
+						{
+							"when": {
+								"os": "linux",
+								"arch": "amd64"
+							},
+							"url": "https://github.com/Bedrock-OSS/regolith-test-filters-manifest/releases/download/hello-release-exe-filter-1.0.0/hello-release-exe-filter-1.0.0-linux.zip"
+						}
+					]
+				}
+			}
+		},
 		"hello-nested-path-filter": {
 			"path": "nested/path/filter"
 		}
