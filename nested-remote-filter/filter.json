@@ -1,8 +1,0 @@
-{
-    "filters": [
-        {
-            "filter": "example-python-filter",
-            "url": "github.com/Bedrock-OSS/regolith-test-filters"
-        }
-    ]
-}
