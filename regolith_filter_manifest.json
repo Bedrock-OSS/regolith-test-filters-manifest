@@ -1,0 +1,16 @@
+{
+	"formatVersion": "1.6.0",
+	"filters": {
+		"hello-release-filter": {
+			"versions": {
+				"1.0.0": {
+					"urls": [
+						{
+							"url": "https://github.com/Bedrock-OSS/regolith-test-filters-manifest/releases/download/hello-release-filter_1.0.0/hello-release-filter-1.0.0.zip"
+						}
+					]
+				}
+			}
+		}
+	}
+}
